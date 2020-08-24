@@ -1,6 +1,7 @@
-# desafio-nodejs
+# desafio-reactJS
 
-<img src="https://reactjs.org/logo-og.png" title="ReactJS" alt="ReactJS" width="100" align="center">
+
+<img src="https://reactjs.org/logo-og.png" title="ReactJS" alt="ReactJS" width="300" align="center">
 
 
 # Desafio: Conceitos do ReactJS
